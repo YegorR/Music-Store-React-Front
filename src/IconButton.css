@@ -1,0 +1,9 @@
+.Button {
+    height: 16px;
+    width: 16px;
+    display: block;
+}
+
+.Button:hover {
+    filter: invert(10%);
+}
